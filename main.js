@@ -8,7 +8,7 @@ function myFunction() {
 }
 
 
-function pop() {alert("xxxvidsxxx est trop bien. Viens dessus stp please")};
+function pop() {alert("Posey je suis sous Jack dans mon bendo pouloulou")};
 
 setTimeout(pop,10000);
 
