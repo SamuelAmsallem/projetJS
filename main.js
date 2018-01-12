@@ -6,3 +6,9 @@ function myFunction() {
         x.style.display = "none";
     }
 }
+
+
+function pop() {alert("xxxvidsxxx est trop bien. Viens dessus stp please")};
+
+setTimeout(pop,10000);
+
